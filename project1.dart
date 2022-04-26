@@ -22,15 +22,15 @@ void main() {
   int score = int.parse(stdin.readLineSync()!);
 
   if (score > 80) {
-    print("Your Score For: $subject is $score And your Grade: A");
+    print("Your grade For: $subject is A");
   } else if (score >= 60 && score <= 79) {
-    print("Your Score For: $subject is $score And your Grade: B");
+    print("Your grade For: $subject is B");
   } else if (score >= 50 && score <= 59) {
-    print("Your Score For: $subject is $score And your Grade: C");
+    print("Your grade For: $subject is  C");
   } else if (score >= 40 && score <= 49) {
-    print("Your Score For: $subject is $score And your Grade: D");
+    print("Your grade For: $subject is D");
   } else if (score < 40) {
-    print("Your Score For: $subject is $score And your Grade: F");
+    print("Your grade For: $subject is F");
   } else {
     print("Enter A Valid Score");
   }
