@@ -2,6 +2,8 @@ Assignment From Side Hustle:
 
 Done By: MOBILE APPLICATION DEVELOPMENT_GROUP_75
 
+The Program An Open Program Where User Enter The Subject And Score. The Program Grades The User According To The Score Entered.
+
 
 Question: Peter is a student in University of Lagos, write a Program to calculate his grades.
 Explanation :  Peter is expected to input a subject as well as the  score, you are to show the result in the format below
